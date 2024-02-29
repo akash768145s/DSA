@@ -1,0 +1,9 @@
+{
+    "C_Cpp.errorSquiggles": "disabled",
+    "cSpell.words": [
+        "hashset"
+    ],
+    "files.associations": {
+        "vector": "cpp"
+    }
+}
